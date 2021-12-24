@@ -1,4 +1,4 @@
-# Projet_Traitement_D-image
+# Projet_Traitement_Image
 Automatic brain segmentation in fetal MRI 
 
 
